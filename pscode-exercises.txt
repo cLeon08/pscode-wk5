@@ -1,0 +1,41 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+create variable to hold number, num1
+
+ask user for a whole number
+store number into variable created
+
+if num1 modulus(%) 2 is equal to 0, num1 is even
+else, num1 is odd.
+
+print to the user, the number you entered is...(even or odd)
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.
+create the variables to hold the numbers, num1-5
+using a loop, ask the user for the 5 numbers
+store the numbers into the variables
+   
+b) Calculate the average of the five numbers.
+create the variable to hold the sum of the given numbers, sum
+create the variable to hold the average, avg
+
+add the numbers given from the user together and store into sum, num1 + num2 + num3 + num4 + num5 = sum
+
+divide sum by the amount of numbers and store into avg, avg = sum / 5
+
+print to the user the average of the  numbers you gave is...(avg)
